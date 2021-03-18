@@ -24,8 +24,12 @@ We will discuss the work based on:
 1. UI Design implementation.
 2. System Design.
 3. Testing and validation.
+4. Scalability.
 
 Happy Developing! 💪🏾🤩
+
+### Hints:
+Demonstrate how strong you are on writing clean codes and great user interface. 💪🏾💪🏾💪🏾
 
 ## Bonus
 
